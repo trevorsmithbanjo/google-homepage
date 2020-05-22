@@ -1,0 +1,1 @@
+In this project I will deconstruct the google homepage and rebuild it from scratch.  This is my 6th project with HTML and CSS and my first project of this kind.
